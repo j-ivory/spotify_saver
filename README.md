@@ -1,1 +1,1 @@
-Task: download my Spotify running playlist for jogs with my ipod 
+downloads my Spotify running playlist for jogs with my ipod 
